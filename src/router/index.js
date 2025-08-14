@@ -16,7 +16,8 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  // 注意这里加上你的仓库名 '/12/' 作为基础路径
+  history: createWebHistory('/12/'),
   routes
 })
 
