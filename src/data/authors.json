@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Author A",
+    "famousWorks": ["Book 1", "Book 2"]
+  },
+  {
+    "name": "Author B",
+    "famousWorks": ["Book 3"]
+  }
+]
